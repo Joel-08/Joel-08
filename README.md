@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Peek 2020-07-09 15-53](https://github.com/Joel-08/Joel-08/blob/main/README.md)
+![Intro](Intro.gif)
 <!--
 **Joel-08/Joel-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
